@@ -71,12 +71,10 @@
     height: 60px;
     cursor: pointer;
     border: none;
-    background-color: #333333;
+    background-color: black;
     color: #ffffff;
 }
-.btn:hover {
-    background-color: black;
-}
+
 .total{
     font-weight: 600;
     font-size: larger;
@@ -85,3 +83,9 @@
 
     font-weight: 600;
 }
+ .red {
+    color: #FF6347;
+ }
+ .background {
+    background-color: #FF6347;
+ }
